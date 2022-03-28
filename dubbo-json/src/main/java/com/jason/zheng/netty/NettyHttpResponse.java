@@ -17,7 +17,7 @@ import static io.netty.handler.codec.http.HttpHeaderNames.CONTENT_LENGTH;
 
 /**
  * @Description:
- * @Author: psbc
+ * @Author: Kai Zheng
  * @Date: 14:08 2021/6/30
  */
 public class NettyHttpResponse implements HttpResponse {

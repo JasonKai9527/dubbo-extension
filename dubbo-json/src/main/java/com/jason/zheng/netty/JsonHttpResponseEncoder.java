@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * @Description:
- * @Author: psbc
+ * @Author: Kai Zheng
  * @Date: 14:07 2021/6/30
  */
 public class JsonHttpResponseEncoder extends MessageToMessageEncoder<NettyHttpResponse> {

@@ -10,7 +10,7 @@ import java.io.OutputStream;
 
 /**
  * @Description:
- * @Author: psbc
+ * @Author: Kai Zheng
  * @Date: 14:18 2021/6/30
  */
 public class ChunkOutputStream extends OutputStream {

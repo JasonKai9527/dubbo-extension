@@ -4,7 +4,7 @@ import io.netty.handler.codec.DecoderException;
 
 /**
  * @Description:
- * @Author: psbc
+ * @Author: Kai Zheng
  * @Date: 13:57 2021/6/30
  */
 public class JsonDecoderException extends DecoderException {

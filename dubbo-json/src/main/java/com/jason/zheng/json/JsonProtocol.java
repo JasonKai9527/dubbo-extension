@@ -30,7 +30,7 @@ import static org.apache.dubbo.rpc.Constants.GENERIC_KEY;
 
 /**
  * @Description:
- * @Author: psbc
+ * @Author: Kai Zheng
  * @Date: 14:03 2021/6/29
  */
 public class JsonProtocol extends AbstractProxyProtocol {
